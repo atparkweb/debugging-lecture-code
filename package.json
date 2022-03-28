@@ -1,0 +1,26 @@
+{
+  "name": "cc-debugger-practice",
+  "version": "1.0.0",
+  "description": "A project for students to practice using the debugger tools",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atparkweb/debugging-lecture-code.git"
+  },
+  "author": "Andrew Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atparkweb/debugging-lecture-code/issues"
+  },
+  "homepage": "https://github.com/atparkweb/debugging-lecture-code#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
